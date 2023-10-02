@@ -14,6 +14,6 @@ app.get('/weather', async (req, res) => {
     }
 });
 
-console.log('this is so cool!');
+console.log('Hello');
 
 app.listen(5000, () => console.log('Server listening on port 5000'));
