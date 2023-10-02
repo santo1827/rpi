@@ -14,6 +14,6 @@ app.get('/weather', async (req, res) => {
     }
 });
 
-console.log('This is awesome');
+console.log('This is from the new features branch!');
 
 app.listen(5000, () => console.log('Server listening on port 5000'));
